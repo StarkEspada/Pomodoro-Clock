@@ -1,0 +1,150 @@
+body{
+	margin: 0;
+	background: #0000ffa3;
+}
+.container{
+	width: 800px;
+    height: 663px;
+    margin: auto;
+    margin-top: 100px;
+    background: #9C27B0;
+    border-radius: 50px;
+    overflow: hidden;
+}
+.container-timer-menu{
+	width: 800px;
+    height: 230px;
+    background: #f4433663;
+    border-radius: 55px;
+}
+.container-timer-work{
+    width: 600px;
+    height: 400px;
+    margin-left: 105px;
+    margin-top: 40px;
+    vertical-align: top;
+    display: inline-block;
+}
+.container-timer-break{
+    width: 600px;
+    height: 400px;
+    margin-left: 105px;
+    margin-top: 40px;
+    vertical-align: top;
+    display: inline-block;
+}
+.name-minutes-work, .name-minutes-break{
+	width: 130px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 50px;
+    text-align: center;
+    line-height: 44px;
+    vertical-align: top;
+    margin-top: 35px;
+}
+.name-secundes-work, .name-secundes-break{
+	width: 130px;
+    height: 50px;
+    display: inline-block;
+    font-size: 50px;
+    text-align: center;
+    line-height: 44px;
+    vertical-align: top;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+.work{
+    width: 290px;
+    height: 40px;
+    vertical-align: top;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 45px;
+    border-radius: 10px;
+}
+._break{
+    width: 290px;
+    height: 40px;
+    vertical-align: top;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 45px;
+    border-radius: 10px;
+}
+.save{
+	width: 100px;
+    height: 46px;
+    margin-top: 45px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.container-timer{
+	width: 796px;
+	height: 600px;
+}
+.timer-work{
+    width: 620px;
+    height: 90px;
+    font-size: 90px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+.minutes-work, .minutes-break{
+    width: 205px;
+    height: 171px;
+    display: inline-block;
+    line-height: 170px;
+    font-size: 200px;
+    vertical-align: top;
+    margin-left: 55px;
+    margin-top: 10px;
+    text-align: center;
+}
+.secundes-work, .secundes-break{
+    width: 210px;
+    height: 171px;
+    display: inline-block;
+    line-height: 170px;
+    font-size: 200px;
+    vertical-align: top;
+    margin-left: 3px;
+    margin-top: 10px;
+    text-align: center;
+}
+.play{
+    width: 130px;
+    height: 55px;
+    margin-left: 225px;
+    margin-top: 50px;
+    font-size: 30px;
+    vertical-align: top;
+    border-radius: 10px;
+}
+.stop{
+    width: 130px;
+    height: 55px;
+    margin-top: 50px;
+    font-size: 30px;
+    vertical-align: top;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+.colons{
+    width: 60px;
+    height: 170px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    font-size: 200px;
+    line-height: 125px;
+    text-align: center;
+}
+.play-music{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
